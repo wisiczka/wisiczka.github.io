@@ -117,22 +117,23 @@ monogatari.script ({
 		
 		"show scene towerroad with fadeIn duration 2s",
 		"wait 2000",
-		"show scene towerroad with fadeOut duration 5s",
-		"wait 5000",
+		"show scene towerroad with fadeOut duration 2s",
+		"wait 2000",
 		"show scene sidewalk with fadein duration 3s",
-		"show character femboy shota at right with fadeIn 6s",
+		"show character femboy shota at right with fadeIn 4s",
 		"blank",
 		
 		
 		
 		"femboy Today I decided to go on a walk through the fields by my village.",
+		"femboy Who knows what may happen today?",
 		
-		"show character femboy shota at right with fadeOut 2s",
-		
-		
-		
-		"show scene sidewalk with fadeOut duration 2s",
+		"show character femboy shota at right with fadeOut duration 2s",
 		"wait 2000",
+		
+		
+		"show scene sidewalk with fadeOut duration 4s",
+		"wait 4000",
 		"show scene wheatfield with fadeIn",
 		"wait 2000",
 		"show character femboy shota at left with fadeIn",
