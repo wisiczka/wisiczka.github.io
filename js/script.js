@@ -127,9 +127,11 @@ monogatari.script ({
 		
 		"femboy Today I decided to go on a walk through the fields by my village.",
 		
+		"show character femboy shota at right with fadeOut 2s",
 		
 		
-		"show scene sidewalk with fadeOut",
+		
+		"show scene sidewalk with fadeOut duration 2s",
 		"wait 2000",
 		"show scene wheatfield with fadeIn",
 		"wait 2000",

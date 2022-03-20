@@ -120,7 +120,7 @@ monogatari.script ({
 		"show scene towerroad with fadeOut duration 5s",
 		"wait 5000",
 		"show scene sidewalk with fadein duration 3s",
-		"show character femboy shota at center with fadeIn 6s",
+		"show character femboy shota at right with fadeIn 6s",
 		"blank",
 		
 		
